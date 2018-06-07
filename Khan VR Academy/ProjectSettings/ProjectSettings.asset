@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 15
-  productGUID: f986d55324b99f94bb45e8e3fe01c0b5
+  productGUID: 7151a2e90c1da8f41b7f10de2779a67b
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -150,7 +150,7 @@ PlayerSettings:
   androidSupportedAspectRatio: 1
   androidMaxAspectRatio: 2.1
   applicationIdentifier:
-    Android: com.kirk.KhanVRAcademy
+    Android: com.unity3d.vrstandardassets
     Standalone: unity.Unity.VRSamples
     Tizen: com.unity3d.vrstandardassets
     iOS: com.unity3d.vrstandardassets
@@ -158,7 +158,7 @@ PlayerSettings:
   buildNumber:
     iOS: 0
   AndroidBundleVersionCode: 1
-  AndroidMinSdkVersion: 19
+  AndroidMinSdkVersion: 21
   AndroidTargetSdkVersion: 0
   AndroidPreferredInstallLocation: 1
   aotOptions: 
@@ -349,9 +349,6 @@ PlayerSettings:
     m_Enabled: 1
     m_Devices:
     - Oculus
-  - m_BuildTarget: iOS
-    m_Enabled: 1
-    m_Devices: []
   m_BuildTargetEnableVuforiaSettings: []
   openGLRequireES31: 0
   openGLRequireES31AEP: 0
@@ -731,12 +728,11 @@ PlayerSettings:
     daydream:
       daydreamIconForeground: {fileID: 0}
       daydreamIconBackground: {fileID: 0}
-  cloudServicesEnabled:
-    UNet: 1
+  cloudServicesEnabled: {}
   facebookSdkVersion: 7.9.1
   apiCompatibilityLevel: 2
   cloudProjectId: cd5e7bde-17c7-48a6-9df9-7c17060ec552
-  projectName: Khan VR Academy
+  projectName: 
   organizationId: kirkkael
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
