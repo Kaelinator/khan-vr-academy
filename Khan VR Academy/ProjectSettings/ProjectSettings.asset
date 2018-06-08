@@ -652,7 +652,7 @@ PlayerSettings:
     iOS: 0
   allowUnsafeCode: 0
   additionalIl2CppArgs: 
-  scriptingRuntimeVersion: 0
+  scriptingRuntimeVersion: 1
   apiCompatibilityLevelPerPlatform: {}
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
@@ -730,9 +730,9 @@ PlayerSettings:
       daydreamIconBackground: {fileID: 0}
   cloudServicesEnabled: {}
   facebookSdkVersion: 7.9.1
-  apiCompatibilityLevel: 2
+  apiCompatibilityLevel: 3
   cloudProjectId: cd5e7bde-17c7-48a6-9df9-7c17060ec552
-  projectName: 
+  projectName: Khan VR Academy
   organizationId: kirkkael
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
