@@ -26,4 +26,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Auth.unity
     guid: bd26462e0f019cc40bdc24b9aa6dd335
+  - enabled: 1
+    path: Assets/Scenes/StatViewer.unity
+    guid: e369cec105d525246b9ce20f1b959443
   m_configObjects: {}
